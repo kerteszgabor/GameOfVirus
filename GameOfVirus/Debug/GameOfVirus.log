@@ -1,0 +1,13 @@
+﻿  config.cpp
+  GameModel.cpp
+  GameOfVirus.cpp
+C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\GameOfVirus\GameOfVirus.cpp(151,73): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\GameOfVirus\GameOfVirus.cpp(259,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\GameOfVirus\GameOfVirus.cpp(259,65): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\GameOfVirus\GameOfVirus.cpp(168): warning C4715: '<lambda_9ad8a7a07b8cac9239f4416438013999>::operator()': not all control paths return a value
+C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\GameOfVirus\GameModel.h(87): warning C4715: '<lambda_2af58c30290366f0f1395822004dea6d>::operator()': not all control paths return a value
+C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\GameOfVirus\GameModel.cpp(65): warning C4715: 'GetElementFrom': not all control paths return a value
+C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\GameOfVirus\GameModel.cpp(77): warning C4715: 'GetElementFrom': not all control paths return a value
+C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\GameOfVirus\config.cpp(63): warning C4715: 'getRawValue': not all control paths return a value
+  GameOfVirus.vcxproj -> C:\Users\Kertész Gábor\source\repos\cpp\VirusSimulator\GameOfVirus\Debug\GameOfVirus.exe

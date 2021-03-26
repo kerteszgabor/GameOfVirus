@@ -1,0 +1,13 @@
+size=15
+nPersons=7810
+pInfected=0.1
+pInfects=0.2
+nSamplePlace=25
+nQuarantineDays=10
+pMove=0.8
+minHealDay=7
+maxHealDay=30
+pHeal=0.2
+minDiseaseDay=10
+maxDiseaseDay=30
+pDisease=0.3
